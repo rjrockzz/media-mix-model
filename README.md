@@ -3,7 +3,7 @@
   <br>
 <p align="center">
   <kbd>
-  <img src="https://github.com/rjrockzz/media-mix-model/blob/master/static/updated.png">
+  <img src="https://github.com/rjrockzz/media-mix-model/blob/master/updated.png">
   </kbd>  
 </p><br>
 
