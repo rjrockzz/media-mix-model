@@ -1,6 +1,20 @@
-# Media Mix Model
-Predictions on marketing offers and campaigns.
+# 💡 Media Mix Model
+### Predictions on marketing offers and campaigns.<br>
+  <br>
+<p align="center">
+  <kbd>
+  <img src="https://github.com/rjrockzz/media-mix-model/blob/master/static/updated.png">
+  </kbd>  
+</p><br>
 
-gcloud app browse -s media-mix
+* Tech Stack Used:
+  * AWS S3 Buckets.
+  * AWS Glue.
+  * AWS Athena.
+  * AWS EMR Instance.
+  * AWS EC2 Instance.
+  * AWS Sagemaker Studio.
 
-[Website.](https://media-mix-dot-datacouch-279209.uc.r.appspot.com/)
+<br>
+
+_more updates to follow._
