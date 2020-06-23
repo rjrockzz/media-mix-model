@@ -7,7 +7,7 @@
   </kbd>  
 </p><br>
 
-*# Tech Stack Used:
+### Tech Stack Used:
   * GCP Cloud Storage.
   * BigQuery.
   * Data Studio.
