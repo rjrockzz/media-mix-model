@@ -7,13 +7,19 @@
   </kbd>  
 </p><br>
 
-* Tech Stack Used:
-  * AWS S3 Buckets.
-  * AWS Glue.
-  * AWS Athena.
-  * AWS EMR Instance.
-  * AWS EC2 Instance.
-  * AWS Sagemaker Studio.
+*# Tech Stack Used:
+  * GCP Cloud Storage.
+  * BigQuery.
+  * Data Studio.
+  * Compute Engine.
+  * App Engine.
+  * DataProc.
+  * Datalab.
+  * DialogFlow.
+  * Webhooks.
+  * Cloud Functions.
+  * Firebase RT Database.
+  * Google Assistant.
 
 <br>
 
